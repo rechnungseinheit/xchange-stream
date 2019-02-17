@@ -5,7 +5,7 @@
     <groupId>com.github.badgerwithagun.xchange-stream</groupId>
     <artifactId>xchange-stream-parent</artifactId>
     <packaging>pom</packaging>
-    <version>orko-SNAPSHOT</version>
+    <version>orko.6-SNAPSHOT</version>
 
     <modules>
         <module>xchange-stream-core</module>
